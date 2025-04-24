@@ -9,9 +9,9 @@ And so I hope this repo serves as another way for people to access our resources
 
 ---
 
-## 🔍 Workshop Categories
+## Workshop Categories
 
-### 🎓 Semester Workshops
+### Semester Workshops
 These are part of our weekly sessions at UMD, designed to build understanding progressively.
 
 - **Intro to AI/ML**  

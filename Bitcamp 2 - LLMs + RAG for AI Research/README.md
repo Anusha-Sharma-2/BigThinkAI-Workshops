@@ -1,4 +1,4 @@
-# RAG + FastLanguageModel Workshop 💡📚
+# RAG + FastLanguageModel Workshop
 
 In this workshop, we build a powerful AI research assistant using Retrieval-Augmented Generation (RAG), FastLanguageModel, and LangChain. 
 
